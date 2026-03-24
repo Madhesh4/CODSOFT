@@ -1,2 +1,11 @@
-# CODSOFT
-CODSOFT Web Development Internship - Personal Portfolio  A responsive personal portfolio website showcasing my skills, projects, and professional experience. Built as part of the CODSOFT internship program (Level 1 Task). Technologies Used: HTML5, CSS3, JavaScript, Features: Responsive design, smooth scrolling, interactive, UI  internship: 
+# Personal Portfolio - CODSOFT Internship
+
+![Portfolio Screenshot](assets/screenshot.png)
+
+## 📋 Overview
+This is a personal portfolio website created as part of the **CODSOFT Web Development Internship** (Level 1 Task). It showcases my skills, projects, and professional information in a modern, responsive layout.
+
+## 🚀 Live Demo
+[View Live Demo](https://your-demo-link.com)
+
+## 📁 Project Structure
